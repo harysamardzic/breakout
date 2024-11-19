@@ -1,0 +1,16 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+}
+
+#gameCanvas {
+    border: 2px solid #fff;
+    background-color: #222;
+    height: 95vh;
+    width: 100%; 
+}
